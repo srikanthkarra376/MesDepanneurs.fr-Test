@@ -10,3 +10,7 @@ steps to run the project:
 3) Change "db.php" file to your db Credentials.
 
 4) Keep the folder in the root directory of WAMP or XAMP server.
+
+5) I notied A bug in the project. When you run the project for the first time It throws and expection that session variables are 
+ 
+  Undefined.
