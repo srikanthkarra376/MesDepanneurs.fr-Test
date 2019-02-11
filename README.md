@@ -3,7 +3,7 @@
 
 steps to run the project:
 
-1) After UnZip the project connect to your phpmyadmin create a database.
+1) Clone or Download the project in to your computer and connect to your phpmyadmin create a database.
 
 2) open the "mesdanneursdb.sql" file run the sql commands,It creates locations table in your database.
 
